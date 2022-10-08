@@ -1,2 +1,5 @@
-# mindmaps
-Some mind maps 
+# Mindmaps
+
+# Curiosidad, Oct'2022
+
+
