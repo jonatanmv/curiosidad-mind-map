@@ -1,1 +1,1 @@
-![Curiosidad](curiosidad.jpg)
+![Curiosidad](Curiosidad.jpg)
