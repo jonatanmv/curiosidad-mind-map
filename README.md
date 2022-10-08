@@ -1,5 +1,1 @@
-# Mindmaps
-
-# Curiosidad, Oct'2022
-
-
+![Curiosidad](curiosidad.jpg)
